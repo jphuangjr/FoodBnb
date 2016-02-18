@@ -26,6 +26,7 @@
       hostedEvents: Array
     }
 
+
 ### Event Schema
 
     {
